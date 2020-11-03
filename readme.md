@@ -5,3 +5,5 @@ SHA authpass and AES privpass are hardcoded = SHA/AES Only DiskStationManager > 
 Zabbix > Template > Macros > set Username, Passwort and PrivacyPasswort
 
 forked from kko/synology-diskstation-zabbix-snmpv3
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
